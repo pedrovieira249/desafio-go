@@ -1,0 +1,21 @@
+# Binários
+fullcycle
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de teste
+*.test
+*.out
+
+# Go workspace
+go.work
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
